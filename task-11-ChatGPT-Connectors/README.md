@@ -31,37 +31,21 @@
 6. **輸出和分享**：將整合結果匯出為文件或直接分享
 
 ## 📄 產出結果
-- **整合的分析報告**（從多個外部來源自動整合）
-- **資料來源引用清單**（包含每個資訊的來源）
-- **自動化的資料檢索流程**（可重複使用）
+- 整合的分析報告（從多個外部來源自動整合）
+- 資料來源引用清單（包含每個資訊的來源）
+- 自動化的資料檢索流程（可重複使用）
 
-## 💡 實際應用範例
+---
 
-**範例 1：研究報告整合**
-- **資料來源**：Google Drive（研究論文）、GitHub（程式碼和數據）、SharePoint（公司內部資料）
-- **產出**：包含多個來源引用的完整研究報告
+## 📚 教學資源
 
-**範例 2：程式碼文件分析**
-- **資料來源**：GitHub Repositories（多個專案的程式碼和文件）
-- **產出**：技術文件摘要和程式碼結構分析
+### 老師教學資源
+- [📖 教學資源總覽](./教學資源總覽.md) - 所有教學資源的快速導覽和說明
+- [👨‍🏫 老師範例-ChatGPT-Connectors](./老師範例-ChatGPT-Connectors.md) - 完整的老師示範範例
+- [🔗 教學資源-YouTube與網路連結](./教學資源-YouTube與網路連結.md) - YouTube 搜尋建議、免費範例下載、AI 工具資源
 
-**範例 3：客戶資料整合**
-- **資料來源**：Google Drive（客戶資料）、SharePoint（內部記錄）
-- **產出**：客戶關係管理報告和統計分析
+### 學生練習資源
+- [📝 學生實作範例-模板](./學生實作範例-模板.md) - 空白模板，供學生填寫使用
+- [✨ 學生實作範例-範例](./學生實作範例-範例.md) - 學生完成的示範範例
 
-## ⚙️ ChatGPT Connectors 設定說明（免程式）
-
-**Google Drive Connector**（Plus/Pro 方案）
-- 在 ChatGPT 設定中選擇「Google Drive」Connector
-- 點選授權按鈕，登入 Google 帳號
-
-**GitHub Connector**（Plus/Pro 方案）
-- 在設定中選擇「GitHub」Connector
-- 登入 GitHub 帳號並授權
-
-**SharePoint Connector**（企業版）
-- 在設定中選擇「SharePoint」Connector
-- 輸入 SharePoint 位址和認證資訊
-
-## 📚 相關資源
-- [ChatGPT Connectors 官方說明](https://help.openai.com/en/articles/connectors)
+---

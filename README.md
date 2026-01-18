@@ -49,6 +49,18 @@
 - **Claude Skills** - Claude 客製化工具
 
 ---
+## 常用AI工具介紹
+
+- **Claude Desktop** - 桌面應用程式，整合了多個AI工具，可以方便地使用AI工具。[詳細介紹](./claude_desktop的功能/README.md)
+
+- **Gemini Veo 3** - 文字/圖片生成短影片（約 8 秒）
+- **Invideo AI** - 文字腳本生成完整影片（免費版有浮水印）
+- **Simplified** / **Lumen5** - 文字/文章轉影片
+- **VEED** / **Kapwing** - 影片編輯、自動字幕生成
+- **MCP** (Model Context Protocol) - 工具整合框架
+- **RAG** (檢索增強生成) - 本地文件知識庫
+- **Claude Skills** - Claude 客製化工具
+
 
 ## 📋 任務導向工作流
 
