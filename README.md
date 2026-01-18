@@ -10,6 +10,21 @@
 
 ✔ 具備 AI 素養，不被新工具牽著走
 
+## 主要工具
+- chatGPT的應用
+- gemini的應用
+- claud的應用
+- notebookLLM應用
+- google doc, google sheet, google form,google ppt, google mail整合
+- ollam的應用(本地模型)
+- google nano banana pro應用
+    - 資訊圖表
+    - 生成圖片
+- 學習
+- MCP
+- RAG
+- Claud Skills應用
+
 ### **主題：生成式 AI 全貌與企業應用地圖**
 
 #### **1. 生成式 AI 是什麼**
