@@ -138,47 +138,18 @@ Artifacts 將對話與作品區分開來：
 
 ### Connectors（連接器）
 
-**Connectors（連接器）** 是一個讓 Claude 能夠連接到外部工具和數據源的功能系統。
+**Connectors（連接器）** 讓 Claude 能夠連接到外部工具和數據源，提供更精準的回應和協作能力。
 
 **核心功能：**
+- 連接器目錄：精選的工具集合，一鍵瀏覽和連接
+- 基於 **MCP（Model Context Protocol）** 開放標準建立
+- 兩種類型：**網頁連接器**（Notion、Linear、Slack 等，需付費方案）和**桌面擴展**（Figma、Prisma 等，所有用戶可用）
 
-**連接器目錄**
-- 這是一個精選的工具集合，您可以一鍵瀏覽和連接
-- 所有連接器都基於 **MCP（Model Context Protocol）** 建立，這是 Anthropic 開發的開放標準
+**實際應用：**  
+連接 GitHub、Linear 等工具後，Claude 可直接存取專案資料，例如「從 Linear 撰寫最新 sprint 的發布說明」，Claude 會抓取實際工單資料來生成。
 
-**兩大類型連接器：**
-
-1. **網頁連接器**（遠端服務）
-   - 服務：Notion、Canva、Stripe、Linear、Slack 等
-   - 適用於：Claude 網頁版、桌面版和手機版（需付費方案）
-
-2. **桌面擴展**（本地應用程式）
-   - 服務：Figma、Socket、Prisma 等
-   - 適用於：所有 Claude Desktop 用戶（包含免費用戶）
-
-**實際應用價值：**
-
-透過連接器，Claude 可以：
-- 直接存取您的工具和數據
-- 提供更相關和具體的回應
-- 在您的工具中直接協作
-
-**範例：**  
-原本您只能問「寫發布說明」得到範本，但連接 Linear 後，您可以直接要求「從 Linear 撰寫最新 sprint 的發布說明」，Claude 會抓取實際的工單資料來生成。
-
-**如何使用：**
-
-在 Claude 介面中：
-- 點擊左下角的「搜尋和工具」按鈕
-- 或到「設定 > 連接器」
-- 瀏覽目錄並選擇要連接的工具
-- 通過 OAuth 認證授權
-
-**進階功能：**  
-您也可以建立**自訂連接器**來連接未在目錄中的服務（Pro、Max、Team、Enterprise 方案）。
-
-**教學應用：**  
-連接 GitHub、Linear 等開發工具，讓 Claude 直接存取專案資料來協助課程準備或學生專案指導。
+**實際操作：**  
+[Connectors 實際操作指南](./Connectors/README.md)
 
 ---
 
@@ -341,5 +312,6 @@ MCP 伺服器讓 Claude Desktop 能夠：
 ## 相關資源
 
 - [Projects 實際操作指南](./Projects/README.md)
+- [Connectors 實際操作指南](./Connectors/README.md)
 - [Anthropic 官方文檔](https://docs.anthropic.com/)
 - [MCP 規範文檔](https://modelcontextprotocol.io/)
