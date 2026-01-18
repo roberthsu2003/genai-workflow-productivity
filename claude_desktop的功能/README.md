@@ -1,4 +1,4 @@
- Claude Desktop 的三個核心功能：
+ # Claude Desktop 的三個核心功能：
 
 ## **Chats（對話）**
 - 這是基本的對話介面，每次與 Claude 的交流都會建立一個獨立對話
@@ -11,7 +11,8 @@
 - 可以上傳相關文件（教材、程式碼、文件等）作為背景知識
 - 可以設定專案說明（Custom Instructions），讓 Claude 理解專案的特定脈絡
 - 專案內的所有對話都能存取這些共享資源
-- **適合您的教學場景**：例如建立「程式設計基礎課程」專案，放入課程大綱、範例程式碼，讓 Claude 幫您準備教材或回答學生問題
+
+[Projects實際操作](./Projects/README.md)
 
 ## **Artifacts（工件）**
 這是 Claude 生成的獨立內容視窗：

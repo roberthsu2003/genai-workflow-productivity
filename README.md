@@ -59,6 +59,9 @@
 
 - **ChatGPT Desktop** - 桌面應用程式，整合了多個AI工具，可以方便地使用AI工具。[詳細介紹](./chatGPT_Desktop/README.md)
 
+- **Google AI Studio** - Google 生態整合、多模態。[詳細介紹](./google_ai_studio/README.md)
+
+
 - **Gemini Veo 3** - 文字/圖片生成短影片（約 8 秒）
 - **Invideo AI** - 文字腳本生成完整影片（免費版有浮水印）
 - **Simplified** / **Lumen5** - 文字/文章轉影片
