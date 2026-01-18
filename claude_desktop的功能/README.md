@@ -146,7 +146,7 @@ Artifacts 將對話與作品區分開來：
 - 兩種類型：**網頁連接器**（Notion、Linear、Slack 等，需付費方案）和**桌面擴展**（Figma、Prisma 等，所有用戶可用）
 
 **實際應用：**  
-連接 GitHub、Linear 等工具後，Claude 可直接存取專案資料，例如「從 Linear 撰寫最新 sprint 的發布說明」，Claude 會抓取實際工單資料來生成。
+連接 Notion、Google Drive 等工具後，Claude 可直接存取您的資料，例如「從我的 Notion 中找出所有關於『消費者行為』的筆記，並整理成重點摘要」，或「請從我的 Google Drive 中找出所有 2025 年 1 月的專案報告，並整理成一份月報摘要」，Claude 會直接讀取實際資料來生成。
 
 **實際操作：**  
 [Connectors 實際操作指南](./Connectors/README.md)
