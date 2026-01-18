@@ -176,7 +176,7 @@
 
 ---
 
-### 📌 [範例 2：Google Drive 文件協作與分析](./案例2Google_Drive_文件協作與分析.md)
+### 📌 [範例 2：Google Drive 文件協作與分析](./案例2Google_Drive文件協作與分析.md)
 
 **目標：** 使用 Google Drive Connector 整合多份文件並生成分析報告
 
