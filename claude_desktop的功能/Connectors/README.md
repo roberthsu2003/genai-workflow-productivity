@@ -176,7 +176,7 @@
 
 ---
 
-### 📌 [範例 2：Google Drive 文件協作與分析](./案例2Google Drive文件協作與分析.md)
+### 📌 [範例 2：Google Drive 文件協作與分析](./案例2Google_Drive_文件協作與分析.md)
 
 **目標：** 使用 Google Drive Connector 整合多份文件並生成分析報告
 
@@ -237,7 +237,7 @@ A：可以！您可以同時連接多個連接器，Claude 可以根據對話需
 ### 實際操作範例
 - [範例 1：Notion 筆記整理與摘要](./案例1Notion筆記整理與摘要.md)
   - [案例 1 素材資料](./案例1素材/)
-- [範例 2：Google Drive 文件協作與分析](./案例2Google Drive文件協作與分析.md)
+- [範例 2：Google Drive 文件協作與分析](./案例2Google_Drive文件協作與分析.md)
   - [案例 2 素材資料](./案例2素材/)
 
 ### 官方文檔
