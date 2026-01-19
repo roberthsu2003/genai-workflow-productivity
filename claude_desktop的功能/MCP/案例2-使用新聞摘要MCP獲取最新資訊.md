@@ -57,7 +57,15 @@
 
 #### 設定步驟
 
-1. **開啟 Claude Desktop 設定檔**
+1. **開啟 Claude Desktop 設定**
+   
+   方法一（推薦）：透過 Claude Desktop 介面設定
+   - 開啟 Claude Desktop 應用程式
+   - 點擊左下角的「設定」圖示
+   - 選擇 `Developer` → `MCP`
+   - 在這裡可以直接編輯 MCP 伺服器設定
+   
+   方法二：直接編輯設定檔
    - **Mac**：`~/Library/Application Support/Claude/claude_desktop_config.json`
    - **Windows**：`%APPDATA%\Claude\claude_desktop_config.json`
    - 如果檔案不存在，請建立一個新的 JSON 檔案

@@ -98,8 +98,13 @@ MCP 伺服器讓 Claude Desktop 能夠：
 
 您可以在 Claude Desktop 的設定檔中管理這些擴充功能：
 
-- **Mac**：`~/Library/Application Support/Claude/claude_desktop_config.json`
-- **Windows**：`%APPDATA%\Claude\claude_desktop_config.json`
+### 設定位置
+
+在 Claude Desktop 應用程式中：
+- **設定位置**：`設定` → `Developer` → `MCP`
+- 或直接編輯設定檔：
+  - **Mac**：`~/Library/Application Support/Claude/claude_desktop_config.json`
+  - **Windows**：`%APPDATA%\Claude\claude_desktop_config.json`
 
 ### 配置範例
 
