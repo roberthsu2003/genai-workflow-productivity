@@ -209,7 +209,9 @@ Claude 可以記住您的教學方法、學生背景、常用工具等，讓每�
 **Extension/MCP** 是 Claude Desktop 的擴展機制，透過 **MCP (Model Context Protocol) 伺服器**來連接外部工具和服務，擴展 Claude 的能力。
 
 **實際操作：**  
+
 [MCP 實際操作指南](./MCP/README.md)
+
 ---
 
 ### Skills（技能）
